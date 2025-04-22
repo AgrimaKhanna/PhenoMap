@@ -71,7 +71,7 @@ To generate natural language explanations using an LLM:
 04_explainability.ipynb
 ```
 
-You will be prompted to enter a Hugging Face access token. Create a Hugging Face account, generate an access token with read permissions for gated models, and request access to:
+You will be prompted to enter a Hugging Face access token. Create a Hugging Face account, generate an access token with read access to contents of all public gated repos you can access, and request access to:
 
 ```
 meta-llama/Llama-3.1-8B-Instruct
