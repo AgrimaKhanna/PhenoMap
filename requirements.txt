@@ -6,6 +6,7 @@ pyvis
 torch
 torchvision
 torchaudio
+torch_geometric
 xgboost
 plotly
 nbformat
