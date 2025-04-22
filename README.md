@@ -33,7 +33,7 @@ Create the data directory:
 mkdir -p data/RAW
 ```
 
-Then download the `kg.csv` file from the PrimeKG repository (There is a link to the csv file download in their README file):
+Then download the `kg.csv` (~1GB) file from the PrimeKG repository (There is a link to the csv file download in their README file):
 
 https://github.com/mims-harvard/PrimeKG/tree/main
 
