@@ -72,7 +72,7 @@ The last three cells used to generate the html visualization files in this noteb
 
 ### Step 4: Run the Explanation Tool
 
-To generate natural language explanations using an LLM:
+To use the tool to generate natural language explanations for disease-phenotype relationships:
 
 ```
 04_explainability.ipynb
