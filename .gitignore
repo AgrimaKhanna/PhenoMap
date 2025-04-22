@@ -1,0 +1,7 @@
+.DS_Store
+src/.ipynb_checkpoints
+venv/*
+venv/**/*
+venv/**/**/* 
+data/**/* 
+src/hf_token.txt
