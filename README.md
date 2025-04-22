@@ -68,6 +68,7 @@ This notebook trains the R-GCN encoder and all decoder variants:
 ```
 03_RGCN_training.ipynb
 ```
+The last three cells used to generate the html visualization files in this notebook need CUDA and will not work on Mac.
 
 ### Step 4: Run the Explanation Tool
 
