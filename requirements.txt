@@ -3,9 +3,10 @@ matplotlib
 networkx   
 seaborn
 pyvis
-torch==2.5.0 
-torchvision==0.20.0 
-torchaudio==2.5.0
+torch
+torchvision
+torchaudio
+torch_geometric
 xgboost
 plotly
 nbformat

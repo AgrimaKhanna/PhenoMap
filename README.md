@@ -27,11 +27,17 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 
 ## Data Setup
 
-Download the `kg.csv` file from the PrimeKG repository:
+Create the data directory:
+
+```bash
+mkdir -p data/RAW
+```
+
+Then download the `kg.csv` (~1GB) file from the PrimeKG repository (There is a link to the csv file download in their README file):
 
 https://github.com/mims-harvard/PrimeKG/tree/main
 
-Place the file in the following directory:
+Place the file in:
 
 ```
 data/RAW/kg.csv
